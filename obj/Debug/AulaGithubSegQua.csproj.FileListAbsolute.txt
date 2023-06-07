@@ -1,0 +1,7 @@
+D:\Users\conrado.sasaud\source\repos\AulaGithubSegQua\AulaGithubSegQua\bin\Debug\AulaGithubSegQua.exe.config
+D:\Users\conrado.sasaud\source\repos\AulaGithubSegQua\AulaGithubSegQua\bin\Debug\AulaGithubSegQua.exe
+D:\Users\conrado.sasaud\source\repos\AulaGithubSegQua\AulaGithubSegQua\bin\Debug\AulaGithubSegQua.pdb
+D:\Users\conrado.sasaud\source\repos\AulaGithubSegQua\AulaGithubSegQua\obj\Debug\AulaGithubSegQua.csproj.AssemblyReference.cache
+D:\Users\conrado.sasaud\source\repos\AulaGithubSegQua\AulaGithubSegQua\obj\Debug\AulaGithubSegQua.csproj.CoreCompileInputs.cache
+D:\Users\conrado.sasaud\source\repos\AulaGithubSegQua\AulaGithubSegQua\obj\Debug\AulaGithubSegQua.exe
+D:\Users\conrado.sasaud\source\repos\AulaGithubSegQua\AulaGithubSegQua\obj\Debug\AulaGithubSegQua.pdb
